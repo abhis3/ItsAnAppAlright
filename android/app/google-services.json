@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "861954832396",
+    "firebase_url": "https://telltime-allian.firebaseio.com",
+    "project_id": "telltime-allian",
+    "storage_bucket": "telltime-allian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861954832396:android:0e83c3130d419d31",
+        "android_client_info": {
+          "package_name": "com.allian.telltime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861954832396-1b7s5vg8lbqk6vpa18gh5ra3g5pfgo93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-GIRi8NjihaUoy5aX0iBxyHv_00FZ6Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
