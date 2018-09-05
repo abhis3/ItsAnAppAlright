@@ -9,7 +9,7 @@ A basic react native app with [`react-native-firebase`](https://github.com/inver
 1.  Clone the repository
 2.  Run a new emulator in Android Studio
 3.  Build an APK for the emulator (clean build files first if necessary)
-4.  In the root project folder, run “npm start”
+4.  In the root project folder, run “npm start”. Make sure to not run this command until the app has started via the emulator.
 5.  Open application
 
 #### 1) Clone & Install Dependencies
